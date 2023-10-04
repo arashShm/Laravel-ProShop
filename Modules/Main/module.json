@@ -1,0 +1,12 @@
+{
+    "name": "Main",
+    "alias": "main",
+    "description": "Managing All Modules",
+    "keywords": [],
+    "priority": 0,
+    "canDisable" : false ,
+    "providers": [
+        "Modules\\Main\\Providers\\MainServiceProvider"
+    ],
+    "files": []
+}
